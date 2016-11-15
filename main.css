@@ -4,14 +4,17 @@ body {
     background-color:goldenrod;
 }
 
-
+img {
+    width: 100%;
+    height: auto;
+}
     
 
 #Title {
     font-size: 24px;
     color: red;
     text-align: center;
-   
+    
     
 }
 #H1 {
@@ -42,11 +45,14 @@ body {
     color:red;
     font-size: 24px;
     text-align: center;
-   
+    padding: 15px;
+    max-width: 300px;
+    height: 300px;
+    border: 1px solid black;
 }
 
  @media only screen and (min-width: 40px) {
     body {
-      background-color:blue;
+      background-color:gold;
 }   
     
