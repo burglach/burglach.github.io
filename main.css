@@ -8,6 +8,11 @@ img {
     width: 100%;
     height: auto;
 }
+
+video {
+    width: 100%;
+    height: auto;
+}
     
 
 #Title {
@@ -46,6 +51,11 @@ img {
     font-size: 24px;
     text-align: center;
     
+}
+
+#website {
+    
+    font-size:30px;
 }
 
  
