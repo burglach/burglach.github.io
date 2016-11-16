@@ -58,5 +58,30 @@ video {
     font-size:30px;
 }
 
+#Goalkeepers {
+    font-size:18;
+    float:left;
+    color:navy;
+    
+}
+
+#Defenders  {
+    font-size:18;
+    float:left;
+    color:navy;
+}
+
+#Midfielders  {
+    font-size:18;
+    float:left;
+    color:navy;
+}
+
+#Forwards  {
+    font-size:18;
+    float:left;
+    color:navy;
+}
+
  
     
